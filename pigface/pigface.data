@@ -1,0 +1,6 @@
+classes= 1
+train  = pigface/train.txt
+valid  = pigface/test.txt
+names  = pigface/pigface.names
+backup = pigface/backup/
+
